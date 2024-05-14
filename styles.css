@@ -1,0 +1,21 @@
+/* Taggetting a Html tag  */
+body{
+    background-color: blanchedalmond;
+
+}
+/* Taggetting an Id  */
+#mainheading {
+    color: aliceblue;
+}
+/* Taggetting a class  */
+.subheading{
+   color: blue;
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+p{
+    font-family: Verdana;
+    font-size: 20px;
+}
