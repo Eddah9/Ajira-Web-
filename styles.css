@@ -17,5 +17,59 @@ h1{
 }
 p{
     font-family: Verdana;
+    font-size: 30px;
+}
+.about-us{ 
+    margin-left: 100px;
+    padding: 10px ;
+    background-color: darkgreen;
+    border: 1px solid red ;
+    border: 20px;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: aliceblue;
+
+}
+.logo{
+    margin-left: 50px;
+}
+.buttons{
+    margin-right: 100px;
+}
+.buttons button{
+    padding: 6px;
+    border: 1px solid rgb(140, 223, 140);
+    background-color: white;
+    margin-right: 10px;
+} 
+.buttons button{
+    box-shadow: 1px 1px 3px 3px rgb(77, 204, 77);
+}
+.hero-img img{
+    width: 80%;
+    height: 50vh;
+}
+.hero-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.hero-text{
+    margin-right: 20px;
+}
+.hero-section h3{
     font-size: 20px;
+}
+.sessions {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;   
 }
